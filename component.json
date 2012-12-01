@@ -1,0 +1,11 @@
+{
+  "name": "Demo Project",
+  "version": "1.0.0",
+  "main": "vendor/",
+  "dependencies": {
+    "jquery": "*",
+    "underscore": "*",
+    "normalize-css": "*",
+    "adaminclone": "*"
+  }
+}

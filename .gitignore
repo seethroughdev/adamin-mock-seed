@@ -1,0 +1,99 @@
+# Revamped thanks to gibo and github
+
+### /Users/flooky/.gitignore-boilerplates/Global/OSX.gitignore
+
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+
+
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
+
+### /Users/flooky/.gitignore-boilerplates/Wordpress.gitignore
+
+.htaccess
+wp-config.php
+wp-content/uploads/
+wp-content/blogs.dir/
+wp-content/upgrade/
+wp-content/backup-db/
+wp-content/advanced-cache.php
+wp-content/wp-cache-config.php
+sitemap.xml
+*.log
+wp-content/cache/
+wp-content/backups/
+sitemap.xml
+sitemap.xml.gz
+
+### /Users/flooky/.gitignore-boilerplates/Global/SublimeText.gitignore
+
+# SublimeText project files
+*.sublime-workspace
+
+
+### /Users/flooky/.gitignore-boilerplates/Global/SASS.gitignore
+
+### SASS Ignores - "Sassy CSS" http://sass-lang.com/
+*.sass-cache
+
+
+### /Users/flooky/.gitignore-boilerplates/Global/vim.gitignore
+
+.*.sw[a-z]
+*.un~
+Session.vim
+.netrwhist
+
+### /Users/flooky/.gitignore-boilerplates/Compass.gitignore
+
+.sass-cache
+
+
+### /Users/flooky/.gitignore-boilerplates/Rails.gitignore
+
+*.rbc
+*.sassc
+.sass-cache
+capybara-*.html
+.rspec
+/.bundle
+/vendor/bundle
+/log/*
+/tmp/*
+/db/*.sqlite3
+/public/system/*
+/coverage/
+/spec/tmp/*
+**.orig
+rerun.txt
+pickle-email-*.html
+
+### /Users/flooky/.gitignore-boilerplates/Node.gitignore
+
+lib-cov
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+
+pids
+logs
+results
+
+npm-debug.log
+
+
+### Bower files
+/components/
+

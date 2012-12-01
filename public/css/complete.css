@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box; }
+
+.clearfix {
+  zoom: 1; }
+  .clearfix:before, .clearfix:after {
+    content: "";
+    display: table; }
+  .clearfix:after {
+    clear: both; }
+
+body {
+  background: #f8f8f8; }
+
+.main-container {
+  background: white;
+  width: 960px;
+  margin: 0 auto; }
+
+.js-hide, .wb-hide, .is_hidden {
+  display: none; }
