@@ -3,5 +3,5 @@ jQuery ->
   # correct way to map $ in cs
   $ = jQuery
 
-  # for boilerplate to detect js
+  # boilerplate to detect if-js
   $('html').removeClass('no-js')
