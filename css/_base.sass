@@ -1,0 +1,16 @@
+// The best rule in CSS
+// http://paulirish.com/2012/box-sizing-border-box-ftw/
+*
+  +box-sizing(border-box)
+
+// my favorite Clearfix
+// http://nicolasgallagher.com/micro-clearfix-hack/
+.clearfix, .cf
+  zoom: 1 // ie6/7 hack
+
+  &:before, &:after
+    content: ""
+    display: table
+
+  &:after
+    clear: both

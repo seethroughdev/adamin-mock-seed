@@ -13,17 +13,17 @@
       "outputAbbreviatedPath" : "\/public\/layout.html",
       "fileType" : 512
     },
-    "\/js\/script.coffee" : {
+    "\/css\/_vars.sass" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
+      "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/js\/script.coffee",
-      "checkOutputStyle" : 1,
-      "minifyOutput" : 0,
-      "outputAbbreviatedPath" : "\/public\/js\/script.js",
+      "inputAbbreviatedPath" : "\/css\/_vars.sass",
       "outputStyle" : 0,
-      "fileType" : 32
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/public\/css\/_vars.css",
+      "fileType" : 2,
+      "debugStyle" : 0
     },
     "\/mocks\/test.jade" : {
       "ignoreWasSetByUser" : 0,
@@ -36,17 +36,17 @@
       "outputAbbreviatedPath" : "\/public\/test.html",
       "fileType" : 512
     },
-    "\/css\/_partials\/vars.sass" : {
+    "\/js\/script.coffee" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
+      "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/css\/_partials\/vars.sass",
+      "inputAbbreviatedPath" : "\/js\/script.coffee",
+      "checkOutputStyle" : 1,
+      "minifyOutput" : 0,
+      "outputAbbreviatedPath" : "\/public\/js\/script.js",
       "outputStyle" : 0,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/public\/css\/vars.css",
-      "fileType" : 2,
-      "debugStyle" : 0
+      "fileType" : 32
     },
     "\/css\/complete.sass" : {
       "ignoreWasSetByUser" : 0,
@@ -57,30 +57,6 @@
       "outputStyle" : 0,
       "shouldRunBless" : 0,
       "outputAbbreviatedPath" : "\/public\/css\/complete.css",
-      "fileType" : 2,
-      "debugStyle" : 0
-    },
-    "\/css\/_partials\/layout.sass" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/css\/_partials\/layout.sass",
-      "outputStyle" : 0,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/public\/css\/layout.css",
-      "fileType" : 2,
-      "debugStyle" : 0
-    },
-    "\/css\/_partials\/base.sass" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/css\/_partials\/base.sass",
-      "outputStyle" : 0,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/public\/css\/base.css",
       "fileType" : 2,
       "debugStyle" : 0
     },
@@ -104,6 +80,18 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 16
     },
+    "\/css\/_layout.sass" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/css\/_layout.sass",
+      "outputStyle" : 0,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/public\/css\/_layout.css",
+      "fileType" : 2,
+      "debugStyle" : 0
+    },
     "\/mocks\/_partials\/nav.jade" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -115,6 +103,30 @@
       "outputAbbreviatedPath" : "\/public\/nav.html",
       "fileType" : 512
     },
+    "\/css\/_base.sass" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/css\/_base.sass",
+      "outputStyle" : 0,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/public\/css\/_base.css",
+      "fileType" : 2,
+      "debugStyle" : 0
+    },
+    "\/css\/_state.sass" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/css\/_state.sass",
+      "outputStyle" : 0,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/public\/css\/_state.css",
+      "fileType" : 2,
+      "debugStyle" : 0
+    },
     "\/public\/test.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -123,18 +135,6 @@
       "inputAbbreviatedPath" : "\/public\/test.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
-    },
-    "\/css\/_partials\/state.sass" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/css\/_partials\/state.sass",
-      "outputStyle" : 0,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/public\/css\/state.css",
-      "fileType" : 2,
-      "debugStyle" : 0
     }
   },
   "manualImportLinks" : [
