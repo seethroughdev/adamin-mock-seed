@@ -2,63 +2,202 @@
   "CodeKitInfo" : "This is a CodeKit project configuration file. It is designed to sync project settings across multiple machines. Modifying the contents of this file can be a poor life decision if you don't know what you're doing. This file is not useful unless accompanied by the project that created it in CodeKit. For more information, see: http:\/\/incident57.com\/codekit",
   "creatorBuild" : "7978",
   "files" : {
-    "\/mocks\/_partials\/layout.jade" : {
+    "\/pre\/mocks\/_partials\/layout.jade" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/mocks\/_partials\/layout.jade",
+      "inputAbbreviatedPath" : "\/pre\/mocks\/_partials\/layout.jade",
       "outputStyle" : 0,
       "compileDebug" : 1,
       "outputAbbreviatedPath" : "\/public\/layout.html",
       "fileType" : 512
     },
-    "\/css\/_vars.sass" : {
+    "\/pre\/css\/neat\/functions\/_private.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/css\/_vars.sass",
+      "inputAbbreviatedPath" : "\/pre\/css\/neat\/functions\/_private.scss",
       "outputStyle" : 3,
       "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/public\/css\/_vars.css",
-      "fileType" : 2,
+      "outputAbbreviatedPath" : "\/public\/css\/_private.css",
+      "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/mocks\/test.jade" : {
+    "\/public\/test.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/public\/test.html",
+      "outputAbbreviatedPath" : "\/No Output Path",
+      "fileType" : 2048
+    },
+    "\/pre\/css\/neat\/functions\/_px-to-em.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/pre\/css\/neat\/functions\/_px-to-em.scss",
+      "outputStyle" : 3,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/public\/css\/_px-to-em.css",
+      "fileType" : 4,
+      "debugStyle" : 0
+    },
+    "\/pre\/css\/neat\/grid\/_visual-grid.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/pre\/css\/neat\/grid\/_visual-grid.scss",
+      "outputStyle" : 3,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/public\/css\/_visual-grid.css",
+      "fileType" : 4,
+      "debugStyle" : 0
+    },
+    "\/pre\/mocks\/test.jade" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/mocks\/test.jade",
+      "inputAbbreviatedPath" : "\/pre\/mocks\/test.jade",
       "outputStyle" : 0,
       "compileDebug" : 1,
       "outputAbbreviatedPath" : "\/public\/test.html",
       "fileType" : 512
     },
-    "\/js\/script.coffee" : {
+    "\/pre\/mocks\/_partials\/nav.jade" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/pre\/mocks\/_partials\/nav.jade",
+      "outputStyle" : 0,
+      "compileDebug" : 1,
+      "outputAbbreviatedPath" : "\/public\/nav.html",
+      "fileType" : 512
+    },
+    "\/pre\/js\/script.coffee" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/js\/script.coffee",
+      "inputAbbreviatedPath" : "\/pre\/js\/script.coffee",
       "checkOutputStyle" : 1,
       "minifyOutput" : 0,
       "outputAbbreviatedPath" : "\/public\/js\/script.js",
       "outputStyle" : 0,
       "fileType" : 32
     },
-    "\/css\/complete.sass" : {
+    "\/pre\/css\/_layout.sass" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
+      "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/css\/complete.sass",
+      "inputAbbreviatedPath" : "\/pre\/css\/_layout.sass",
       "outputStyle" : 3,
       "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/public\/css\/complete.css",
+      "outputAbbreviatedPath" : "\/public\/css\/_layout.css",
       "fileType" : 2,
       "debugStyle" : 0
+    },
+    "\/pre\/css\/neat\/functions\/_new-breakpoint.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/pre\/css\/neat\/functions\/_new-breakpoint.scss",
+      "outputStyle" : 3,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/public\/css\/_new-breakpoint.css",
+      "fileType" : 4,
+      "debugStyle" : 0
+    },
+    "\/pre\/css\/_modules.sass" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/pre\/css\/_modules.sass",
+      "outputStyle" : 3,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/public\/css\/_modules.css",
+      "fileType" : 2,
+      "debugStyle" : 0
+    },
+    "\/pre\/css\/_vars.sass" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/pre\/css\/_vars.sass",
+      "outputStyle" : 3,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/public\/css\/_vars.css",
+      "fileType" : 2,
+      "debugStyle" : 0
+    },
+    "\/pre\/css\/neat\/settings\/_visual-grid.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/pre\/css\/neat\/settings\/_visual-grid.scss",
+      "outputStyle" : 3,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/public\/css\/_visual-grid.css",
+      "fileType" : 4,
+      "debugStyle" : 0
+    },
+    "\/pre\/css\/neat\/grid\/_grid.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/pre\/css\/neat\/grid\/_grid.scss",
+      "outputStyle" : 3,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/public\/css\/_grid.css",
+      "fileType" : 4,
+      "debugStyle" : 0
+    },
+    "\/pre\/css\/_base.sass" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/pre\/css\/_base.sass",
+      "outputStyle" : 3,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/public\/css\/_base.css",
+      "fileType" : 2,
+      "debugStyle" : 0
+    },
+    "\/pre\/css\/neat\/grid\/_global-variables.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/pre\/css\/neat\/grid\/_global-variables.scss",
+      "outputStyle" : 3,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/public\/css\/_global-variables.css",
+      "fileType" : 4,
+      "debugStyle" : 0
+    },
+    "\/pre\/mocks\/_partials\/sidebar.jade" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/pre\/mocks\/_partials\/sidebar.jade",
+      "outputStyle" : 0,
+      "compileDebug" : 1,
+      "outputAbbreviatedPath" : "\/public\/sidebar.html",
+      "fileType" : 512
     },
     "\/public\/js\/script.js" : {
       "ignoreWasSetByUser" : 0,
@@ -71,70 +210,85 @@
       "outputAbbreviatedPath" : "\/public\/js\/script.min.js",
       "fileType" : 64
     },
-    "\/public\/css\/complete.css" : {
+    "\/pre\/mocks\/_partials\/footer.jade" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/css\/complete.css",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 16
-    },
-    "\/css\/_layout.sass" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/css\/_layout.sass",
-      "outputStyle" : 3,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/public\/css\/_layout.css",
-      "fileType" : 2,
-      "debugStyle" : 0
-    },
-    "\/mocks\/_partials\/nav.jade" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/mocks\/_partials\/nav.jade",
+      "inputAbbreviatedPath" : "\/pre\/mocks\/_partials\/footer.jade",
       "outputStyle" : 0,
       "compileDebug" : 1,
-      "outputAbbreviatedPath" : "\/public\/nav.html",
+      "outputAbbreviatedPath" : "\/public\/footer.html",
       "fileType" : 512
     },
-    "\/css\/_base.sass" : {
+    "\/pre\/css\/_state.sass" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/css\/_base.sass",
-      "outputStyle" : 3,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/public\/css\/_base.css",
-      "fileType" : 2,
-      "debugStyle" : 0
-    },
-    "\/css\/_state.sass" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/css\/_state.sass",
+      "inputAbbreviatedPath" : "\/pre\/css\/_state.sass",
       "outputStyle" : 3,
       "shouldRunBless" : 0,
       "outputAbbreviatedPath" : "\/public\/css\/_state.css",
       "fileType" : 2,
       "debugStyle" : 0
     },
-    "\/public\/test.html" : {
+    "\/pre\/css\/neat\/settings\/_grid.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/test.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
+      "inputAbbreviatedPath" : "\/pre\/css\/neat\/settings\/_grid.scss",
+      "outputStyle" : 3,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/public\/css\/_grid.css",
+      "fileType" : 4,
+      "debugStyle" : 0
+    },
+    "\/public\/css\/complete.css" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/public\/css\/complete.css",
+      "outputAbbreviatedPath" : "\/No Output Path",
+      "fileType" : 16
+    },
+    "\/pre\/css\/complete.sass" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/pre\/css\/complete.sass",
+      "outputStyle" : 3,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/public\/css\/complete.css",
+      "fileType" : 2,
+      "debugStyle" : 0
+    },
+    "\/pre\/css\/neat\/_neat-helpers.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/pre\/css\/neat\/_neat-helpers.scss",
+      "outputStyle" : 3,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/public\/css\/_neat-helpers.css",
+      "fileType" : 4,
+      "debugStyle" : 0
+    },
+    "\/pre\/css\/neat\/_neat.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/pre\/css\/neat\/_neat.scss",
+      "outputStyle" : 3,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/public\/css\/_neat.css",
+      "fileType" : 4,
+      "debugStyle" : 0
     }
   },
   "manualImportLinks" : [
@@ -312,7 +466,7 @@
   },
   "projectAttributes" : {
     "bourbonEnabled" : 1,
-    "displayValue" : "tran",
+    "displayValue" : "adamin-mock-seed",
     "displayValueWasSetByUser" : 0,
     "compassEnabled" : 0
   }
