@@ -27,4 +27,8 @@ to use this repo:
 
         bower install
 
-4. Open Codekit / Add the folder
+4. Install Neat if you don't have it already
+
+        gem install neat
+
+5. Open Codekit / Add the folder
