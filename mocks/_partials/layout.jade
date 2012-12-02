@@ -22,14 +22,23 @@ html.no-js(lang='en')
       link(rel='stylesheet', href='#{cssPath}/complete.css')
 
   body
-    .main-container
+    .main-container.container
 
       block nav
         include nav
 
-      .content
-        block content
-      // eof content
+      .page-container
+        #sidebar.sidebar
+          include sidebar
+        // eof sidebar
+
+        #content.content
+          block content
+        // eof content
+
+      #footer.footer
+        include footer
+      // eof footer
 
     block scripts
       script(src="#{vendorPath}/jquery/jquery.js")

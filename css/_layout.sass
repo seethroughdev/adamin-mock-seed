@@ -1,7 +1,29 @@
 body
   background: $lt-grey
 
+.nav
+  +span-columns(12)
+
 .main-container
+  +outer-container
+  +pad(1em)
   background: white
-  width: 960px
-  margin: 0 auto
+
+.page-container
+  +row()
+
+.sidebar
+  +span-columns(3)
+  +pad(1em)
+  +media(max-width 769px)
+    +span-columns(12)
+
+.content
+  +span-columns(9)
+  +pad(1em)
+  +media(max-width 769px)
+    +span-columns(12)
+
+.footer
+  +span-columns(12)
+  text-align: center
