@@ -8,7 +8,7 @@
   ],
   "serve_files": [
     "tests/lib/*.js",
-    "components/jquery/jquery.min.js",
+    "components/jquery/jquery.js",
     "components/underscore/underscore-min.js",
     "components/Adamin-Clone/dist/adamin_clone.min.js",
     "dist/js/*.js",
