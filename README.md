@@ -9,6 +9,7 @@ This version uses:
 - Sass for CSS
 - Jade for Templating
 - Coffee for Javascript
+- Testem for Testing
 - Bower for package management
 
 .gitignore is same as my ~/.gitignore, but i put this in, in case anyone else wants to download the folder.
@@ -28,3 +29,10 @@ to use this repo:
         bower install
 
 4. Open Codekit / Add the folder
+    - In CodeKit preferences, add 'tests' to the ignored folders.
+    - Once you've added the folder, right-click and select 'Apply project defaults from file'
+
+5. Run Testem for your tests
+    - In the command line, navigate to your project and type
+
+            testem
