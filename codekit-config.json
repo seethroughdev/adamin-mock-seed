@@ -10,7 +10,7 @@
       "inputAbbreviatedPath" : "\/app\/css\/neat\/settings\/_grid.scss",
       "outputStyle" : 3,
       "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/public\/css\/_grid.css",
+      "outputAbbreviatedPath" : "\/dist\/css\/_grid.css",
       "fileType" : 4,
       "debugStyle" : 0
     },
@@ -22,7 +22,7 @@
       "inputAbbreviatedPath" : "\/app\/css\/neat\/settings\/_visual-grid.scss",
       "outputStyle" : 3,
       "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/public\/css\/_visual-grid.css",
+      "outputAbbreviatedPath" : "\/dist\/css\/_visual-grid.css",
       "fileType" : 4,
       "debugStyle" : 0
     },
@@ -34,7 +34,7 @@
       "inputAbbreviatedPath" : "\/app\/css\/_state.sass",
       "outputStyle" : 3,
       "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/public\/css\/_state.css",
+      "outputAbbreviatedPath" : "\/dist\/css\/_state.css",
       "fileType" : 2,
       "debugStyle" : 0
     },
@@ -46,7 +46,7 @@
       "inputAbbreviatedPath" : "\/app\/css\/_base.sass",
       "outputStyle" : 3,
       "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/public\/css\/_base.css",
+      "outputAbbreviatedPath" : "\/dist\/css\/_base.css",
       "fileType" : 2,
       "debugStyle" : 0
     },
@@ -58,43 +58,7 @@
       "inputAbbreviatedPath" : "\/app\/css\/neat\/functions\/_px-to-em.scss",
       "outputStyle" : 3,
       "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/public\/css\/_px-to-em.css",
-      "fileType" : 4,
-      "debugStyle" : 0
-    },
-    "\/app\/css\/_layout.sass" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/app\/css\/_layout.sass",
-      "outputStyle" : 3,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/public\/css\/_layout.css",
-      "fileType" : 2,
-      "debugStyle" : 0
-    },
-    "\/app\/css\/neat\/grid\/_global-variables.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/app\/css\/neat\/grid\/_global-variables.scss",
-      "outputStyle" : 3,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/public\/css\/_global-variables.css",
-      "fileType" : 4,
-      "debugStyle" : 0
-    },
-    "\/app\/css\/neat\/functions\/_private.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/app\/css\/neat\/functions\/_private.scss",
-      "outputStyle" : 3,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/public\/css\/_private.css",
+      "outputAbbreviatedPath" : "\/dist\/css\/_px-to-em.css",
       "fileType" : 4,
       "debugStyle" : 0
     },
@@ -107,6 +71,42 @@
       "outputAbbreviatedPath" : "\/No Output Path",
       "fileType" : 16
     },
+    "\/app\/css\/neat\/grid\/_global-variables.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/app\/css\/neat\/grid\/_global-variables.scss",
+      "outputStyle" : 3,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/dist\/css\/_global-variables.css",
+      "fileType" : 4,
+      "debugStyle" : 0
+    },
+    "\/app\/css\/neat\/functions\/_private.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/app\/css\/neat\/functions\/_private.scss",
+      "outputStyle" : 3,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/dist\/css\/_private.css",
+      "fileType" : 4,
+      "debugStyle" : 0
+    },
+    "\/app\/css\/_layout.sass" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/app\/css\/_layout.sass",
+      "outputStyle" : 3,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/dist\/css\/_layout.css",
+      "fileType" : 2,
+      "debugStyle" : 0
+    },
     "\/app\/mocks\/_partials\/footer.jade" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -115,7 +115,7 @@
       "inputAbbreviatedPath" : "\/app\/mocks\/_partials\/footer.jade",
       "outputStyle" : 0,
       "compileDebug" : 1,
-      "outputAbbreviatedPath" : "\/public\/footer.html",
+      "outputAbbreviatedPath" : "\/dist\/footer.html",
       "fileType" : 512
     },
     "\/app\/css\/_vars.sass" : {
@@ -126,7 +126,7 @@
       "inputAbbreviatedPath" : "\/app\/css\/_vars.sass",
       "outputStyle" : 3,
       "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/public\/css\/_vars.css",
+      "outputAbbreviatedPath" : "\/dist\/css\/_vars.css",
       "fileType" : 2,
       "debugStyle" : 0
     },
@@ -138,7 +138,7 @@
       "inputAbbreviatedPath" : "\/app\/css\/neat\/_neat-helpers.scss",
       "outputStyle" : 3,
       "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/public\/css\/_neat-helpers.css",
+      "outputAbbreviatedPath" : "\/dist\/css\/_neat-helpers.css",
       "fileType" : 4,
       "debugStyle" : 0
     },
@@ -150,7 +150,7 @@
       "inputAbbreviatedPath" : "\/app\/mocks\/_partials\/nav.jade",
       "outputStyle" : 0,
       "compileDebug" : 1,
-      "outputAbbreviatedPath" : "\/public\/nav.html",
+      "outputAbbreviatedPath" : "\/dist\/nav.html",
       "fileType" : 512
     },
     "\/app\/mocks\/_partials\/sidebar.jade" : {
@@ -161,19 +161,19 @@
       "inputAbbreviatedPath" : "\/app\/mocks\/_partials\/sidebar.jade",
       "outputStyle" : 0,
       "compileDebug" : 1,
-      "outputAbbreviatedPath" : "\/public\/sidebar.html",
+      "outputAbbreviatedPath" : "\/dist\/sidebar.html",
       "fileType" : 512
     },
-    "\/app\/css\/complete.sass" : {
+    "\/app\/css\/neat\/_neat.scss" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
+      "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/app\/css\/complete.sass",
+      "inputAbbreviatedPath" : "\/app\/css\/neat\/_neat.scss",
       "outputStyle" : 3,
       "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/dist\/css\/complete.css",
-      "fileType" : 2,
+      "outputAbbreviatedPath" : "\/dist\/css\/_neat.css",
+      "fileType" : 4,
       "debugStyle" : 0
     },
     "\/dist\/js\/script.js" : {
@@ -195,7 +195,30 @@
       "inputAbbreviatedPath" : "\/app\/mocks\/_partials\/layout.jade",
       "outputStyle" : 0,
       "compileDebug" : 1,
-      "outputAbbreviatedPath" : "\/public\/layout.html",
+      "outputAbbreviatedPath" : "\/dist\/layout.html",
+      "fileType" : 512
+    },
+    "\/app\/css\/complete.sass" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/app\/css\/complete.sass",
+      "outputStyle" : 3,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/dist\/css\/complete.css",
+      "fileType" : 2,
+      "debugStyle" : 0
+    },
+    "\/app\/mocks\/test.jade" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/app\/mocks\/test.jade",
+      "outputStyle" : 0,
+      "compileDebug" : 1,
+      "outputAbbreviatedPath" : "\/dist\/test.html",
       "fileType" : 512
     },
     "\/app\/js\/script.coffee" : {
@@ -210,29 +233,6 @@
       "outputStyle" : 0,
       "fileType" : 32
     },
-    "\/app\/mocks\/test.jade" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/app\/mocks\/test.jade",
-      "outputStyle" : 0,
-      "compileDebug" : 1,
-      "outputAbbreviatedPath" : "\/public\/test.html",
-      "fileType" : 512
-    },
-    "\/app\/css\/neat\/_neat.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/app\/css\/neat\/_neat.scss",
-      "outputStyle" : 3,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/public\/css\/_neat.css",
-      "fileType" : 4,
-      "debugStyle" : 0
-    },
     "\/app\/css\/neat\/grid\/_grid.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -241,7 +241,7 @@
       "inputAbbreviatedPath" : "\/app\/css\/neat\/grid\/_grid.scss",
       "outputStyle" : 3,
       "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/public\/css\/_grid.css",
+      "outputAbbreviatedPath" : "\/dist\/css\/_grid.css",
       "fileType" : 4,
       "debugStyle" : 0
     },
@@ -253,7 +253,7 @@
       "inputAbbreviatedPath" : "\/app\/css\/neat\/functions\/_new-breakpoint.scss",
       "outputStyle" : 3,
       "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/public\/css\/_new-breakpoint.css",
+      "outputAbbreviatedPath" : "\/dist\/css\/_new-breakpoint.css",
       "fileType" : 4,
       "debugStyle" : 0
     },
@@ -263,7 +263,7 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/dist\/test.html",
-      "outputAbbreviatedPath" : "\/No Output Path",
+      "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
     "\/app\/css\/_modules.sass" : {
@@ -274,7 +274,7 @@
       "inputAbbreviatedPath" : "\/app\/css\/_modules.sass",
       "outputStyle" : 3,
       "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/public\/css\/_modules.css",
+      "outputAbbreviatedPath" : "\/dist\/css\/_modules.css",
       "fileType" : 2,
       "debugStyle" : 0
     },
@@ -286,9 +286,21 @@
       "inputAbbreviatedPath" : "\/app\/css\/neat\/grid\/_visual-grid.scss",
       "outputStyle" : 3,
       "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/public\/css\/_visual-grid.css",
+      "outputAbbreviatedPath" : "\/dist\/css\/_visual-grid.css",
       "fileType" : 4,
       "debugStyle" : 0
+    },
+    "\/tests\/spec\/testSpec.coffee" : {
+      "ignoreWasSetByUser" : 1,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/tests\/spec\/testSpec.coffee",
+      "checkOutputStyle" : 1,
+      "minifyOutput" : 0,
+      "outputAbbreviatedPath" : "\/dist\/js\/testSpec.js",
+      "outputStyle" : 0,
+      "fileType" : 32
     }
   },
   "manualImportLinks" : [
@@ -317,8 +329,8 @@
     "autoSyncProjectSettingsFile" : 1,
     "lessAutoOutputPathReplace1" : "less",
     "jadeAutoOutputPathReplace1" : "",
-    "lessAutoOutputPathRelativePath" : "..\/css",
-    "hamlAutoOutputPathRelativePath" : "public\/",
+    "lessAutoOutputPathRelativePath" : "dist\/css",
+    "hamlAutoOutputPathRelativePath" : "dist\/",
     "jsCheckerReservedNamesString" : "",
     "javascriptOutputStyle" : 1,
     "stylusDebugStyle" : 0,
@@ -326,7 +338,7 @@
     "hamlAutoOutputPathStyle" : 1,
     "sassDebugStyle" : 0,
     "hamlOutputStyle" : 0,
-    "stylusAutoOutputPathRelativePath" : "public\/css\/",
+    "stylusAutoOutputPathRelativePath" : "dist\/css\/",
     "jsCheckerIndent" : 4,
     "kitAutoOutputPathRelativePath" : "",
     "lessAutoOutputPathReplace2" : "css",
@@ -339,17 +351,17 @@
     "sassAutoOutputPathReplace1" : "sass",
     "slimAutoOutputPathReplace1" : "",
     "sassOutputStyle" : 3,
-    "coffeeAutoOutputPathRelativePath" : "public\/js\/",
+    "coffeeAutoOutputPathRelativePath" : "dist\/js\/",
     "slimCompileOnly" : 0,
     "slimLogicless" : 0,
     "uglifyIndent" : 4,
-    "jadeAutoOutputPathRelativePath" : "public\/",
+    "jadeAutoOutputPathRelativePath" : "dist\/",
     "hamlUseUnixNewlines" : 1,
     "hamlAutoOutputPathReplace1" : "",
     "javascriptAutoOutputPathReplace1" : "",
     "stylusOutputStyle" : 0,
     "javascriptAutoOutputPathReplace2" : "",
-    "sassAutoOutputPathRelativePath" : "public\/css\/",
+    "sassAutoOutputPathRelativePath" : "dist\/css\/",
     "coffeeAutoOutputPathReplace1" : "",
     "hamlUseDoubleQuotes" : 1,
     "coffeeAutoOutputPathReplace2" : "",
@@ -464,7 +476,7 @@
     "slimRailsCompatible" : 0,
     "kitAutoOutputPathReplace2" : "",
     "lessDebugStyle" : 0,
-    "javascriptAutoOutputPathRelativePath" : "public\/js\/",
+    "javascriptAutoOutputPathRelativePath" : "dist\/js\/",
     "slimAutoOutputPathStyle" : 0
   },
   "projectAttributes" : {
