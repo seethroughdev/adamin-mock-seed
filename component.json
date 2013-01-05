@@ -6,6 +6,7 @@
     "jquery": "*",
     "underscore": "*",
     "normalize-css": "*",
-    "adaminclone": "*"
+    "adaminclone": "*",
+    "twitter-bootstrap-sass": "*"
   }
 }

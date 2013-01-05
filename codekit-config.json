@@ -83,18 +83,6 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/app\/css\/neat\/grid\/_global-variables.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/app\/css\/neat\/grid\/_global-variables.scss",
-      "outputStyle" : 3,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/dist\/css\/_global-variables.css",
-      "fileType" : 4,
-      "debugStyle" : 0
-    },
     "\/app\/css\/_layout.sass" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -105,6 +93,18 @@
       "shouldRunBless" : 0,
       "outputAbbreviatedPath" : "\/dist\/css\/_layout.css",
       "fileType" : 2,
+      "debugStyle" : 0
+    },
+    "\/app\/css\/neat\/grid\/_global-variables.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/app\/css\/neat\/grid\/_global-variables.scss",
+      "outputStyle" : 3,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/dist\/css\/_global-variables.css",
+      "fileType" : 4,
       "debugStyle" : 0
     },
     "\/app\/mocks\/_partials\/footer.jade" : {
@@ -130,17 +130,6 @@
       "fileType" : 2,
       "debugStyle" : 0
     },
-    "\/app\/mocks\/_partials\/nav.jade" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/app\/mocks\/_partials\/nav.jade",
-      "outputStyle" : 0,
-      "compileDebug" : 1,
-      "outputAbbreviatedPath" : "\/dist\/nav.html",
-      "fileType" : 512
-    },
     "\/app\/css\/neat\/_neat-helpers.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -152,6 +141,17 @@
       "outputAbbreviatedPath" : "\/dist\/css\/_neat-helpers.css",
       "fileType" : 4,
       "debugStyle" : 0
+    },
+    "\/app\/mocks\/_partials\/nav.jade" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/app\/mocks\/_partials\/nav.jade",
+      "outputStyle" : 0,
+      "compileDebug" : 1,
+      "outputAbbreviatedPath" : "\/dist\/nav.html",
+      "fileType" : 512
     },
     "\/app\/mocks\/_partials\/sidebar.jade" : {
       "ignoreWasSetByUser" : 0,
@@ -176,17 +176,16 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/app\/js\/script.coffee" : {
+    "\/dist\/js\/script.js" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
+      "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/app\/js\/script.coffee",
-      "checkOutputStyle" : 1,
-      "minifyOutput" : 0,
-      "outputAbbreviatedPath" : "\/dist\/js\/script.js",
-      "outputStyle" : 0,
-      "fileType" : 32
+      "inputAbbreviatedPath" : "\/dist\/js\/script.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/dist\/js\/script.min.js",
+      "fileType" : 64
     },
     "\/app\/mocks\/_partials\/layout.jade" : {
       "ignoreWasSetByUser" : 0,
@@ -199,27 +198,17 @@
       "outputAbbreviatedPath" : "\/dist\/layout.html",
       "fileType" : 512
     },
-    "\/dist\/js\/script.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/dist\/js\/script.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/dist\/js\/script.min.js",
-      "fileType" : 64
-    },
-    "\/app\/mocks\/test.jade" : {
+    "\/app\/js\/script.coffee" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/app\/mocks\/test.jade",
+      "inputAbbreviatedPath" : "\/app\/js\/script.coffee",
+      "checkOutputStyle" : 1,
+      "minifyOutput" : 0,
+      "outputAbbreviatedPath" : "\/dist\/js\/script.js",
       "outputStyle" : 0,
-      "compileDebug" : 1,
-      "outputAbbreviatedPath" : "\/dist\/test.html",
-      "fileType" : 512
+      "fileType" : 32
     },
     "\/app\/css\/complete.sass" : {
       "ignoreWasSetByUser" : 0,
@@ -232,6 +221,17 @@
       "outputAbbreviatedPath" : "\/dist\/css\/complete.css",
       "fileType" : 2,
       "debugStyle" : 0
+    },
+    "\/app\/mocks\/test.jade" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/app\/mocks\/test.jade",
+      "outputStyle" : 0,
+      "compileDebug" : 1,
+      "outputAbbreviatedPath" : "\/dist\/test.html",
+      "fileType" : 512
     },
     "\/app\/css\/neat\/grid\/_grid.scss" : {
       "ignoreWasSetByUser" : 0,
