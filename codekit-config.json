@@ -1,6 +1,6 @@
 {
   "CodeKitInfo" : "This is a CodeKit project configuration file. It is designed to sync project settings across multiple machines. Modifying the contents of this file can be a poor life decision if you don't know what you're doing. This file is not useful unless accompanied by the project that created it in CodeKit. For more information, see: http:\/\/incident57.com\/codekit",
-  "creatorBuild" : "7978",
+  "creatorBuild" : "8241",
   "files" : {
     "\/pre\/mocks\/_partials\/layout.jade" : {
       "ignoreWasSetByUser" : 0,
@@ -13,15 +13,6 @@
       "outputAbbreviatedPath" : "\/public\/layout.html",
       "fileType" : 512
     },
-    "\/public\/test.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/test.html",
-      "outputAbbreviatedPath" : "\/No Output Path",
-      "fileType" : 2048
-    },
     "\/pre\/css\/neat\/functions\/_private.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -33,6 +24,24 @@
       "outputAbbreviatedPath" : "\/public\/css\/_private.css",
       "fileType" : 4,
       "debugStyle" : 0
+    },
+    "\/public\/index.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/public\/index.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/public\/test.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/public\/test.html",
+      "outputAbbreviatedPath" : "\/No Output Path",
+      "fileType" : 2048
     },
     "\/pre\/css\/neat\/functions\/_px-to-em.scss" : {
       "ignoreWasSetByUser" : 0,
@@ -187,17 +196,16 @@
       "outputAbbreviatedPath" : "\/public\/sidebar.html",
       "fileType" : 512
     },
-    "\/pre\/css\/neat\/grid\/_global-variables.scss" : {
+    "\/pre\/mocks\/index.jade" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
+      "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/pre\/css\/neat\/grid\/_global-variables.scss",
-      "outputStyle" : 3,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/public\/css\/_global-variables.css",
-      "fileType" : 4,
-      "debugStyle" : 0
+      "inputAbbreviatedPath" : "\/pre\/mocks\/index.jade",
+      "outputStyle" : 0,
+      "compileDebug" : 1,
+      "outputAbbreviatedPath" : "\/public\/index.html",
+      "fileType" : 512
     },
     "\/public\/js\/script.js" : {
       "ignoreWasSetByUser" : 0,
@@ -221,16 +229,17 @@
       "outputAbbreviatedPath" : "\/public\/footer.html",
       "fileType" : 512
     },
-    "\/pre\/mocks\/index.jade" : {
+    "\/pre\/css\/neat\/grid\/_global-variables.scss" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
+      "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/pre\/mocks\/index.jade",
-      "outputStyle" : 0,
-      "compileDebug" : 1,
-      "outputAbbreviatedPath" : "\/public\/index.html",
-      "fileType" : 512
+      "inputAbbreviatedPath" : "\/pre\/css\/neat\/grid\/_global-variables.scss",
+      "outputStyle" : 3,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/public\/css\/_global-variables.css",
+      "fileType" : 4,
+      "debugStyle" : 0
     },
     "\/pre\/css\/_state.sass" : {
       "ignoreWasSetByUser" : 0,
@@ -241,6 +250,18 @@
       "outputStyle" : 3,
       "shouldRunBless" : 0,
       "outputAbbreviatedPath" : "\/public\/css\/_state.css",
+      "fileType" : 2,
+      "debugStyle" : 0
+    },
+    "\/pre\/css\/complete.sass" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/pre\/css\/complete.sass",
+      "outputStyle" : 3,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/public\/css\/complete.css",
       "fileType" : 2,
       "debugStyle" : 0
     },
@@ -256,15 +277,6 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/public\/css\/complete.css" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/public\/css\/complete.css",
-      "outputAbbreviatedPath" : "\/No Output Path",
-      "fileType" : 16
-    },
     "\/pre\/css\/neat\/_neat-helpers.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -277,17 +289,14 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/pre\/css\/complete.sass" : {
+    "\/public\/css\/complete.css" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
+      "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/pre\/css\/complete.sass",
-      "outputStyle" : 3,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/public\/css\/complete.css",
-      "fileType" : 2,
-      "debugStyle" : 0
+      "inputAbbreviatedPath" : "\/public\/css\/complete.css",
+      "outputAbbreviatedPath" : "\/No Output Path",
+      "fileType" : 16
     },
     "\/pre\/css\/neat\/_neat.scss" : {
       "ignoreWasSetByUser" : 0,
@@ -307,6 +316,7 @@
   ],
   "projectSettings" : {
     "hamlNoEscapeInAttributes" : 1,
+    "kitAutoOutputPathStyle" : 0,
     "lessOutputStyle" : 0,
     "hamlAutoOutputPathReplace2" : "",
     "draggedImportConcatenationStyle" : 1,
@@ -338,6 +348,7 @@
     "hamlOutputStyle" : 0,
     "stylusAutoOutputPathRelativePath" : "public\/css\/",
     "jsCheckerIndent" : 4,
+    "kitAutoOutputPathRelativePath" : "",
     "lessAutoOutputPathReplace2" : "css",
     "jadeAutoOutputPathReplace2" : "",
     "shouldRunBless" : 0,
@@ -362,7 +373,10 @@
     "coffeeAutoOutputPathReplace1" : "",
     "hamlUseDoubleQuotes" : 1,
     "coffeeAutoOutputPathReplace2" : "",
+    "kitAutoOutputPathReplace1" : "",
     "uglifyReservedNamesString" : "",
+    "coffeeOutputStyle" : 0,
+    "slimAutoOutputPathRelativePath" : "",
     "jsHintFlags" : {
       "latedef" : 1,
       "newcap" : 1,
@@ -418,8 +432,6 @@
       "laxbreak" : 0,
       "plusplus" : 0
     },
-    "coffeeOutputStyle" : 0,
-    "slimAutoOutputPathRelativePath" : "",
     "jsLintFlags" : {
       "white" : 0,
       "bitwise" : 0,
@@ -445,7 +457,6 @@
       "confusion" : 0,
       "evil" : 0,
       "on" : 0,
-      "cap" : 0,
       "windows" : 0,
       "devel" : 0,
       "rhino" : 0,
@@ -471,6 +482,7 @@
     "slimAutoOutputPathReplace2" : "",
     "jadeCompileDebug" : 1,
     "slimRailsCompatible" : 0,
+    "kitAutoOutputPathReplace2" : "",
     "lessDebugStyle" : 0,
     "javascriptAutoOutputPathRelativePath" : "public\/js\/",
     "slimAutoOutputPathStyle" : 0
